@@ -104,6 +104,7 @@ print(f"Corpus contains {len(corpus)} documents.")
 
 # Tokenization splits text into word-like units.
 
+
 # Define a function to tokenize text by lowercasing, splitting on whitespace,
 # and stripping common punctuation. We also filter out very short tokens (length <= 2).
 # This simple tokenizer is sufficient for our small, controlled corpus.
