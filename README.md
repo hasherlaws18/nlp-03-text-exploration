@@ -80,7 +80,12 @@ You will also see:
 
 A file named `project.log` will appear in the project folder.
 
+## Changes
+
+Made a change for the bar graph in section 9 tell about cars instead of dogs.
+
 ## Command Reference
+
 
 The commands below are used in the workflow guide above.
 They are provided here for convenience.
